@@ -1,0 +1,35 @@
+@import url(<link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">);
+@import url(<link rel="stylesheet" href="https://use.typekit.net/jvw3yqb.css">);
+
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+body{
+    height: 100%;
+
+}
+
+.episodesDiv{
+    background-color: #7CAFFF;
+}
+
+.containerEpisodes {
+    padding-right: 40px;
+    padding-left: 40px;
+    margin: 0;
+    font-family: Poppins;
+    font-size: 15px;
+    min-height: 0vh;
+
+
+}
+
+.episodesTitle{
+    font-family: "Poynter Oldstyle Text";
+    font-weight: bold;
+    color: white;
+    font-size: 75px;
+    text-align: center;
+    margin: 0;
+
+}
